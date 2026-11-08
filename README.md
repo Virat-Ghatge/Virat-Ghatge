@@ -43,10 +43,6 @@
   [![Android](https://img.shields.io/badge/Android-14%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Virat-Ghatge/neuro-warp) [![PyTorch](https://img.shields.io/badge/PyTorch-2.2%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/Virat-Ghatge/neuro-warp) [![ONNX](https://img.shields.io/badge/ONNX_Runtime_Mobile-v1.20-005CED?style=flat-square)](https://github.com/Virat-Ghatge/neuro-warp) [![Tests](https://img.shields.io/badge/Tests-370%2F370_Passing-brightgreen?style=flat-square)](https://github.com/Virat-Ghatge/neuro-warp)  
   On-device edge perception framework that fuses high-frequency IMU telemetry with camera streams to warp latent neural features, drastically slashing frame processing latency on mobile hardware. Engineered with Jetpack Compose, CameraX, and 370 verified unit tests.
 
-* **[Image-Caption-Crafter](https://github.com/Virat-Ghatge/Image-Caption-Crafter)** — *Lightweight Vision-to-Text Generative AI*  
-  [![Python](https://img.shields.io/badge/Python-GenAI-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Virat-Ghatge/Image-Caption-Crafter)  
-  A lightweight multimodal image understanding engine that translates visual scenes into rich contextual descriptions using open-weights vision-language models.
-
 ---
 
 ### 🌏 3. Spatial Digital Twins & Applied AI Hackathons
