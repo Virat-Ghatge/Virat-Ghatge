@@ -3,12 +3,12 @@
 # Hey, I'm Virat Ghatge 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FBBF24&center=true&vCenter=true&width=550&lines=Autonomous+Multi-Agent+Systems;High-Rigor+LLM+Reliability+Runtimes;Google+Antigravity+%26+Gemini;Creator+of+HyperFlash+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FBBF24&center=true&vCenter=true&width=580&lines=Autonomous+Agent+Systems;Mobile+Edge+AI+%26+Computer+Vision;Spatial+Digital+Twins+(ISRO+Hackathon);High-Rigor+LLM+Reliability+Runtimes" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Software Engineer & Open Source Builder</b><br/>
-  Passionate about deterministic agent reliability, structural code scaffolding, and modern AI engineering.
+  <b>Software Engineer & Open Source Systems Builder</b><br/>
+  Passionate about autonomous agent architectures, on-device edge perception, and predictive simulation systems.
 </p>
 
 [![Dev.to Profile](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/viratghatge)
@@ -19,35 +19,53 @@
 
 ---
 
-### ⚡ Flagship Project
+## 🚀 Featured Engineering Projects
 
-<div align="center">
+### ⚡ 1. Autonomous Agents & LLM Reliability
 
-### [HyperFlash: Autonomous Multi-Agent Reliability Runtime](https://github.com/Virat-Ghatge/hyperflash)
+* **[HyperFlash](https://github.com/Virat-Ghatge/hyperflash)** — *High-Rigor Multi-Agent Reliability Runtime for Google Antigravity & Gemini*  
+  [![Platform](https://img.shields.io/badge/Platform-Google_Antigravity-4285F4?style=flat-square&logo=google)](https://github.com/Virat-Ghatge/hyperflash) [![Engine](https://img.shields.io/badge/Engine-Gemini_3.8_Flash-8E75C2?style=flat-square&logo=google-gemini)](https://github.com/Virat-Ghatge/hyperflash) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Virat-Ghatge/hyperflash/blob/main/LICENSE)  
+  A structural reliability runtime that eliminates lazy code elision (`// ... rest of code`), ungrounded mutations, and premature task completion in autonomous coding sessions through pre-computed AST call graphs, tool-permission asymmetry, and OS lifecycle hooks.
 
-[![Stars](https://img.shields.io/github/stars/Virat-Ghatge/hyperflash?style=flat-square&logo=github&color=FFD700)](https://github.com/Virat-Ghatge/hyperflash/stargazers)
-[![Forks](https://img.shields.io/github/forks/Virat-Ghatge/hyperflash?style=flat-square&logo=github&color=60A5FA)](https://github.com/Virat-Ghatge/hyperflash/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Virat-Ghatge/hyperflash/blob/main/LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Google_Antigravity-4285F4.svg?style=flat-square&logo=google)](https://github.com/Virat-Ghatge/hyperflash)
-[![Engine](https://img.shields.io/badge/Engine-Gemini_3.8_Flash-8E75C2.svg?style=flat-square&logo=google-gemini)](https://github.com/Virat-Ghatge/hyperflash)
+* **[Vision AI](https://github.com/Virat-Ghatge/vision-ai)** — *Ultra-Low-Token Autonomous Chrome Agent*  
+  [![Chrome Extension](https://img.shields.io/badge/Chrome-Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Virat-Ghatge/vision-ai) [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Virat-Ghatge/vision-ai) [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Virat-Ghatge/vision-ai)  
+  An open-source, 100% client-side autonomous browser automation agent powered by Bring-Your-Own-Key (BYOK) LLMs, featuring DOM distillation and zero-server data leakage.
 
-</div>
-
-> **Engineered for Google Antigravity & Gemini 3.8 Flash:** A high-rigor multi-agent reliability runtime that eliminates lazy code elision (`// ... rest of code`), ungrounded mutations, and premature completion through pre-computed AST call graphs, tool-permission asymmetry, and OS lifecycle hooks.
-
-* 🚀 **In-Chat IDE Activation:** Just type `@hyperflash` in Google Antigravity Desktop IDE.
-* 🛡 **The 8 Watcher Invariants:** Machine-enforced OS pre-tool guards and stop gates.
-* 📊 **9-Tier Verification Hierarchy:** Multi-tier compiler, linting, and automated unit test suite.
-
-👉 **[Explore the HyperFlash Repository →](https://github.com/Virat-Ghatge/hyperflash)**
+* **[JARVIS 2.0](https://github.com/Virat-Ghatge/JARVIS)** — *Autonomous OS Agent & Marvel Holographic HUD*  
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Virat-Ghatge/JARVIS) [![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-black?style=flat-square)](https://github.com/Virat-Ghatge/JARVIS)  
+  A futuristic desktop OS companion and voice/text agent with an Arc-Cyan holographic HUD interface, FastAPI + WebSocket streaming engine, and dynamic multi-model routing.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 👁️ 2. Mobile Edge AI & Computer Vision
+
+* **[NeuroWarp-Edge](https://github.com/Virat-Ghatge/neuro-warp)** — *Real-Time Mobile Edge Perception via IMU-Homography Latent Feature Warping*  
+  [![Android](https://img.shields.io/badge/Android-14%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Virat-Ghatge/neuro-warp) [![PyTorch](https://img.shields.io/badge/PyTorch-2.2%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/Virat-Ghatge/neuro-warp) [![ONNX](https://img.shields.io/badge/ONNX_Runtime_Mobile-v1.20-005CED?style=flat-square)](https://github.com/Virat-Ghatge/neuro-warp) [![Tests](https://img.shields.io/badge/Tests-370%2F370_Passing-brightgreen?style=flat-square)](https://github.com/Virat-Ghatge/neuro-warp)  
+  On-device edge perception framework that fuses high-frequency IMU telemetry with camera streams to warp latent neural features, drastically slashing frame processing latency on mobile hardware. Engineered with Jetpack Compose, CameraX, and 370 verified unit tests.
+
+* **[Image-Caption-Crafter](https://github.com/Virat-Ghatge/Image-Caption-Crafter)** — *Lightweight Vision-to-Text Generative AI*  
+  [![Python](https://img.shields.io/badge/Python-GenAI-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Virat-Ghatge/Image-Caption-Crafter)  
+  A lightweight multimodal image understanding engine that translates visual scenes into rich contextual descriptions using open-weights vision-language models.
+
+---
+
+### 🌏 3. Spatial Digital Twins & Applied AI Hackathons
+
+* **[ClimaTwin India](https://github.com/Virat-Ghatge/digital-twin-India)** — *AI-Powered Climate & Ecosystem Digital Twin*  
+  [![Bharatiya Antariksh Hackathon](https://img.shields.io/badge/ISRO_Hackathon-BAH_2026-FF9933?style=flat-square)](https://github.com/Virat-Ghatge/digital-twin-India) [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/Virat-Ghatge/digital-twin-India)  
+  Built for the **Bharatiya Antariksh Hackathon 2026 (BAH - ISRO Problem Statement 5)**: An interactive AI Digital Twin that simulates complex "What-If" environmental scenarios, analyzing correlations between rising temperatures, rainfall shifts, and regional agricultural stress.
+
+* **[Fasal Saathi](https://github.com/Virat-Ghatge/Fasal_Saathi)** — *Intelligent Agricultural Yield Prediction System*  
+  [![Smart India Hackathon](https://img.shields.io/badge/Hackathon-Smart_India_Hackathon-brightgreen?style=flat-square)](https://github.com/Virat-Ghatge/Fasal_Saathi) [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Live_Demo-FF9D00?style=flat-square)](https://github.com/Virat-Ghatge/Fasal_Saathi)  
+  Data-driven crop yield predictor and decision-support assistant designed for Indian agricultural stakeholders, featuring live deployment on Hugging Face Spaces.
+
+---
+
+## 🛠 Tech Stack & Engineering Competencies
 
 <table>
   <tr>
-    <td align="center" width="120"><b>Languages</b></td>
+    <td align="center" width="140"><b>Core Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -57,61 +75,40 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>AI & Agents</b></td>
+    <td align="center" width="140"><b>AI & Edge Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/LiteRT-009688?style=flat-square&logo=tensorflow&logoColor=white" alt="LiteRT" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/ONNX_Mobile-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
       <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=flat-square&logo=diagram-next&logoColor=white" alt="Multi-Agent" />
       <img src="https://img.shields.io/badge/AST_Static_Analysis-10B981?style=flat-square&logo=codeforces&logoColor=white" alt="AST" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Tooling & Infra</b></td>
+    <td align="center" width="140"><b>Frameworks & Infra</b></td>
     <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff" />
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virat-Ghatge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FBBF24&text_color=C9D1D9" alt="Virat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Ghatge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virat-Ghatge&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FBBF24&fire=FBBF24&currStreakNum=58A6FF" alt="GitHub Streak" />
-</div>
-
----
-
-### 📝 Latest Publications
+## 📝 Recent Articles & Publications
 
 * 📰 **[Why Fast Coding LLMs Keep Truncating Your Code — And How HyperFlash Fixes It](https://dev.to/viratghatge/why-fast-coding-llms-keep-truncating-your-code-and-how-hyperflash-fixes-it-4ee0)**  
   *Published on Dev.to • Explores parameter scale vs. structural scaffolding and deterministic OS lifecycle hooks for Google Antigravity.*
 
 ---
 
-### 🌟 Featured Open-Source Repositories
-
-* ⚡ **[HyperFlash](https://github.com/Virat-Ghatge/hyperflash):** High-rigor multi-agent reliability runtime for Google Antigravity.
-* 🌾 **[Fasal_Saathi](https://github.com/Virat-Ghatge/Fasal_Saathi):** Smart India Hackathon agricultural AI solution.
-* 🖼 **[Image-Caption-Crafter](https://github.com/Virat-Ghatge/Image-Caption-Crafter):** Lightweight visual-to-text GenAI tool.
-
----
-
 <div align="center">
   <i>"Deterministic structural scaffolding beats parameter scale."</i><br/>
-  <b>Feel free to reach out for collaborations, agent engineering discussions, or open-source projects!</b>
+  <b>Open to technical collaborations, agent engineering discussions, and impactful open-source initiatives.</b>
 </div>
