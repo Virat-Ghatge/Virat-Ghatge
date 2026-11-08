@@ -271,51 +271,6 @@ Autonomous OS agent with holographic HUD overlay. FastAPI + WebSockets backend, 
 
 <br/>
 
-<!-- ┌─────────────────── GITHUB STATS ───────────────────┐ -->
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<br/>
-
-<!-- Stats Card -->
-<a href="https://github.com/Virat-Ghatge">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Virat-Ghatge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&ring_color=7aa2f7&include_all_commits=true&count_private=true" alt="Virat's GitHub Stats" />
-</a>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/Virat-Ghatge">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Virat-Ghatge&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<a href="https://github.com/Virat-Ghatge">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Virat-Ghatge&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=7aa2f7&sideNums=bb9af7" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<!-- Profile Summary Card (wide) -->
-<a href="https://github.com/Virat-Ghatge">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Virat-Ghatge&theme=tokyonight" width="85%" alt="Contribution Graph" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- WAVE DIVIDER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1a1b26,24283b,7aa2f7&height=2&section=header" width="100%" />
-</div>
-
-<br/>
-
 <!-- ┌─────────────────── CONNECT ───────────────────┐ -->
 
 <div align="center">
