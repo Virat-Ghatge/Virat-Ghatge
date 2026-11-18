@@ -212,7 +212,6 @@ Autonomous OS agent with holographic HUD overlay. FastAPI + WebSockets backend, 
 
 ![Python](https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7aa2f7)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1b26?style=flat-square&logo=huggingface&logoColor=e0af68)
-![SIH](https://img.shields.io/badge/SIH_Finalist-1a1b26?style=flat-square&logo=award&logoColor=bb9af7)
 
 </td>
 </tr>
